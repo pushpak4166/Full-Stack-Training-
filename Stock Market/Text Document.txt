@@ -1,0 +1,24 @@
+Microservices required 
+
+1) user or admin login/signup and logout
+
+2) uploading the excel sheet which contains stock pricce of a company at various points of time
+
+3) For company data 
+	(like 
+	get/update/create stock price of the company, 
+	get/update/create company id, 
+	set time period, 
+	get/update/create brief information about the company
+	get/update/create IPO details of the company) 
+
+4) Sector data 
+	(get list of companies in the sector,
+	get sector price, 
+	get sector id, 
+	set time period)
+
+5) Stock Exchange 
+	(get Stock exchange list, 
+	create new stock exchange, 
+	get info of companies list)
